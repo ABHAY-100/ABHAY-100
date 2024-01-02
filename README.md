@@ -1,8 +1,5 @@
-👋 Hi, I’m @ABHAY-100, a beginner in tech.
+![ABHAY-100's Stats](https://github-readme-stats.vercel.app/api?username=ABHAY-100&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-- 👀 Interested in web development and tech industry insights.
-- 🌱 Learning various coding languages and tech concepts.
-- 💞️ Eager to collaborate on open source projects.
-- 📫 Reach me at [contact me](mailto:abhaybalakrishnan977@gmail.com).
+![ABHAY-100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-100&theme=dark&hide_border=false)
 
-Let's learn and grow together!
+![ABHAY-100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-100&theme=dark&show_icons=true&hide_border=false&layout=compact)
