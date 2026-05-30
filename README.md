@@ -1,5 +1,1 @@
-Hey, I'm **Abhay** — a CS student from Kochi who enjoys building things and understanding how they work beneath the surface.
-
-I've been exploring cybersecurity and distributed systems — still finding my footing, but genuinely curious and enjoying the process of digging deeper.
-
-If something you're working on sounds like a good fit, I'd love to hear about it. Take a look at my [resume](https://drive.google.com/file/d/1Seufk7r9_2iDDjwLVh8CBgFeV7imWOGm/view?usp=drive_link) or just [say hello](mailto:abhaybalakrishnan977@gmail.com) — always open to a good conversation.
+Hey, I'm **Abhay** — CS student from Kochi. I like building things and figuring out how they actually work. Lately I've been getting into cybersecurity and distributed systems, and I do a bit of design on the side too — you can see that [here](https://github.com/ABHAY-100/design-works). If you think there's something we could work on together, check out my [resume](https://drive.google.com/file/d/1Seufk7r9_2iDDjwLVh8CBgFeV7imWOGm/view?usp=drive_link) or just [say hello](mailto:abhaybalakrishnan977@gmail.com).
