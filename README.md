@@ -1,5 +1,5 @@
-![ABHAY-100's Stats](https://github-readme-stats.vercel.app/api?username=ABHAY-100&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+Hey, I'm **Abhay** — a CS student from Kochi who enjoys building things and understanding how they work beneath the surface.
 
-![ABHAY-100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHAY-100&theme=gotham&hide_border=false)
+I've been exploring cybersecurity and distributed systems — still finding my footing, but genuinely curious and enjoying the process of digging deeper.
 
-![ABHAY-100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAY-100&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+If something you're working on sounds like a good fit, I'd love to hear about it. Take a look at my [resume](https://drive.google.com/file/d/1Seufk7r9_2iDDjwLVh8CBgFeV7imWOGm/view?usp=drive_link) or just [say hello](mailto:abhaybalakrishnan977@gmail.com) — always open to a good conversation.
